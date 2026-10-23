@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="ciel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f9be8"/><stop offset="1" stop-color="#8fe0e8"/></linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#ciel)"/>
+  <circle cx="98" cy="30" r="11" fill="#fff6c8"/>
+  <path d="M30 98h68l-6 18H36z" fill="#c2693c"/>
+  <rect x="26" y="90" width="76" height="12" rx="6" fill="#d9824f"/>
+  <path d="M64 92c-2-14 2-24 0-34-1-8-6-12-14-14" fill="none" stroke="#6b4a2f" stroke-width="7" stroke-linecap="round"/>
+  <path d="M64 70c8-4 14-10 18-18" fill="none" stroke="#6b4a2f" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="44" cy="40" r="17" fill="#2fa04c"/>
+  <circle cx="64" cy="30" r="19" fill="#45c755"/>
+  <circle cx="86" cy="46" r="16" fill="#2fa04c"/>
+  <circle cx="60" cy="52" r="13" fill="#3dbb58"/>
+  <circle cx="72" cy="22" r="4" fill="#ff8a2b"/><circle cx="48" cy="34" r="3.5" fill="#ff6fa5"/><circle cx="90" cy="42" r="3.5" fill="#ff8a2b"/>
+</svg>
